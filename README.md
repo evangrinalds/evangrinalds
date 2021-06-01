@@ -2,7 +2,6 @@
 
 - 📈 Data Science Student @ [Lambda School](https://lambdaschool.com/) - Graduation: June 2021
 - 🌱 Intern @ [Family Promise](https://www.familypromiseofspokane.org/)
-- ✌️ I’m currently working on a project for [Human Rights First](https://github.com/Lambda-School-Labs/human-rights-first-asylum-ds-a)
 - ⚡ Fun fact: Enjoy surfing and everything outdoors!
 - 📫 How to reach me: evanpersonalbiz@gmail.com
 
