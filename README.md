@@ -2,7 +2,6 @@
 
 - 📈 Data Science Student @ [Lambda School](https://lambdaschool.com/)
 - ⚡ Fun fact: Enjoy surfing and everything outdoors!
-- 📫 How to reach me: evanpersonalbiz@gmail.com
 
 ### Connect with me:
 
