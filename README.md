@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi there, my name is Evan 👋 
 
 - 📈 Data Science Student @ [Lambda School](https://lambdaschool.com/)
 - ⚡ Fun fact: Enjoy surfing and everything outdoors!
