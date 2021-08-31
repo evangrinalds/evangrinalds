@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
-- 📈 Data Science Student @ [Lambda School](https://lambdaschool.com/)
-- ⚡ Fun fact: Enjoy surfing and everything outdoors!
+- 📈 Data Science Alumni @ [Lambda School](https://lambdaschool.com/)
+- ⚡ Hired: Data Analyst @ [Family Promise](https://www.familypromiseofspokane.org/)
 
 ### Connect with me:
 
