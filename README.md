@@ -1,8 +1,6 @@
 ### Hi there 👋 
 
 - 📈 Data Science Alumni @ [Lambda School](https://lambdaschool.com/)
-- ⚡ Hired: Data Analyst @ [Family Promise](https://www.familypromiseofspokane.org/)
-
 ### Connect with me:
 
 [<img align="left" style="margin-right: 1.5rem" alt="portfolio" width="36px" src="assets\portfolio.svg" />][portfolio]
